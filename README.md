@@ -2,7 +2,8 @@
 
 Hallo Welt.
 
-one more sentence.
-another sentence would have a verb and a noun.
+This is a sentence.
+
+Another sentence would have a verb and a noun.
 
 Adds another thing here
